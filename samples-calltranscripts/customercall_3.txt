@@ -1,0 +1,33 @@
+Agent: Thank you for calling our Telco customer service. How may I assist you today?
+
+Customer: Hi, I'm looking to change my phone plan. I currently have a plan with low data allowance, but I'm running out of data every month. I need more data to stay connected.
+
+Agent: I understand. May I know which plan you currently have and what you're looking for in a new plan?
+
+Customer: I have the 1 GB data plan, but I need more data for my work and personal use. I'm hoping to get at least 5 GB of data in my new plan.
+
+Agent: I see. We have a variety of plans available, including ones with higher data allowances that might suit your needs better. Can I ask how many minutes of talk time you typically use per month?
+
+Customer: I don't use many minutes, maybe around 100-200 per month.
+
+Agent: Okay, we have a plan that might work well for you. It offers 5 GB of data, 200 minutes of talk time, and unlimited texting for a monthly cost of $45. Would you like to hear more about it?
+
+Customer: Yes, that sounds like it could work for me. Can you tell me more about the plan?
+
+Agent: Sure, this plan is perfect for someone like you who needs more data for work and personal use. It comes with 5 GB of data, 200 minutes of talk time, and unlimited texting per month. The monthly cost is only $45.
+
+Customer: That sounds great. Can I switch to this plan right away?
+
+Agent: Yes, I can definitely help you with that. May I have your full name and account information please?
+
+Customer: My name is Alex Rodriguez and I live at 1234 Elm Street; Los Angeles; California (US).
+
+Agent: Thank you, Alex. And can I also get your birth date for verification purposes?
+
+Customer: Sure, it's 06-12-1995.
+
+Agent: Thank you. I will make the necessary changes to your account and your new plan with 5 GB of data will take effect from 01-06-2023. Is there anything else I can assist you with today, Alex?
+
+Customer: No, that's all. Thank you for your help.
+
+Agent: You're welcome, Alex. Feel free to contact us again if you need further assistance. Have a great day!

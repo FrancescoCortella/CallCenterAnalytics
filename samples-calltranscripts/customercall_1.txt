@@ -1,0 +1,23 @@
+Mark: "Hello, I'm calling because I'm not happy with my current phone plan. It's too expensive and I'd like to switch to something more affordable."
+
+Telco Agent: "Hi Mark, I understand. We have a few different plans that might be more suitable for you. Can I ask what type of phone you have and what features you're looking for?"
+
+Mark: "I have an iPhone 8 and I'm looking for a plan that includes unlimited data, texting, and a few international calls."
+
+Telco Agent: "We have a great plan that includes all of those features. It's our unlimited data plan with international calling. It's only $50 a month and you'll get unlimited data, unlimited texting, and up to 500 minutes of international calling. Does that sound like something you'd be interested in?"
+
+Mark: "That sounds great! I'm definitely interested. What do I need to do to switch to this plan?"
+
+Telco Agent: "I'll need some basic information from you to get you set up. Can I get your full name, date of birth, and address?"
+
+Mark: "Sure, my name is Mark Smith, my date of birth is April 15th, 1990, and my address is 123 Main Street; Dublin (Ireland)."
+
+Telco Agent: "Great, I have all the information I need. I just need to verify your identity and make sure everything is in order. Can I have the last four digits of your social security number?"
+
+Mark: "Sure, it's 1234."
+
+Telco Agent: "Perfect. I'm just going to process the paperwork and you should be all set. You'll receive a confirmation email shortly with all the details of your new plan, which will start 01-05-2023. Is there anything else I can help you with today?"
+
+Mark: "No, that's all. Thank you for your help!"
+
+Telco Agent: "You're welcome. Have a great day!"

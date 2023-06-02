@@ -1,0 +1,16 @@
+Agent: Thank you for calling our Telco customer service. May I know your full name and address, please?
+Customer: Yes, my full name is Sarah Johnson and I live at 1 Dam Square; Amsterdam (Netherlands).
+Agent: Thank you, Sarah. And may I also know your birth date for verification purposes?
+Customer: Of course, it's 18-04-1993.
+Agent: Great, thank you for that. Now, let's talk about changing your phone plan. Which plan do you currently have and what are you looking for in a new plan?
+Customer: I have the unlimited plan right now, but it's just too expensive for me. I'm looking for a plan with lower data and minutes allowances.
+Agent: I understand. Based on what you've told me, our 3GB data and 200 minutes plan would be a better fit for you. It costs only $30 per month, which is less than half of what you're currently paying. Are you interested in this plan?
+Customer: Yes, that sounds perfect. Can you sign me up for it?
+Agent: Sure, Sarah. May I know when you would like the plan change to take effect?
+Customer: I'd like it to start as soon as possible.
+Agent: Okay, I can make the change effective from today. I just need to confirm your start date for the new plan. Can you provide that for me?
+Customer: Yes, my start date for the new plan is today, 28-04-2023.
+Agent: Got it. I will make the necessary changes to your account and you will be able to start using the new plan right away. Is there anything else I can assist you with today, Sarah?
+Customer: No, that's all. Thank you for your help.
+Agent: You're welcome, Sarah. Don't hesitate to call us if you need further assistance. Have a great day!
+
