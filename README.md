@@ -2,6 +2,8 @@
 
 This solution provides a step-by-step guide on implementing automation in the context of call center analytics. The process involves converting audio files of calls into text files, which are then analyzed using Azure OpenAI service APIs. Relevant information is extracted from the transcripts and organized in a tabular format. Finally, the key insights are visualized and mapped onto a PowerBI Dashboard.
 
+Moreover, this logic can be extended beyond call centers and applied to any audio or text files, enabling you to extract valuable insights. Unleash your creativity and build your very own customized solution!
+
 # The architecture
 ![image](https://github.com/FrancescoCortella/CallCenterAnalytics/assets/135111177/b1bb7edc-d0a0-4398-8e5d-4028532b5063)
 
